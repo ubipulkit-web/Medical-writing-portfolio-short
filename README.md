@@ -11,7 +11,7 @@ This portfolio contains selected independent writing samples created to demonstr
 ## Featured Writing Samples
 
 ### 1. Publication-Style Scientific Writing
-**[Return to Sport Following Myocarditis in Athletes: From Exercise Restriction to Multiparametric Clearance](01-publications/return-to-sport-after-myocarditis.md)**
+**[Return to Sport Following Myocarditis in Athletes](return-to-sport-after-myocarditis.md)**
 
 A publication-style focused review examining contemporary return-to-sport assessment after myocarditis, including exercise restriction, ventricular function, rhythm assessment, exercise testing and cardiac magnetic resonance imaging.
 
@@ -26,7 +26,7 @@ A publication-style focused review examining contemporary return-to-sport assess
 ---
 
 ### 2. HCP Medical Education / Evidence Brief
-**[Return to Sport After ACL Reconstruction: Why Time Alone Is Not Enough](02-medical-education/acl-reconstruction-return-to-sport-evidence-brief.md)**
+**[Return to Sport After ACL Reconstruction: Why Time Alone Is Not Enough](acl-reconstruction-return-to-sport-evidence-brief.md)**
 
 A concise evidence brief for sports medicine physicians and rehabilitation professionals summarising evidence around timing, functional testing, psychological readiness and reinjury risk following ACL reconstruction.
 
@@ -41,7 +41,7 @@ A concise evidence brief for sports medicine physicians and rehabilitation profe
 ---
 
 ### 3. Plain-Language Publication Summary
-**[Could Semaglutide Improve Symptoms in People With Obesity-Related HFpEF?](03-plain-language-summaries/step-hfpef-plain-language-summary.md)**
+**[Could Semaglutide Improve Symptoms in People With Obesity-Related HFpEF?](step-hfpef-plain-language-summary.md)**
 
 A plain-language summary of the STEP-HFpEF clinical trial, written for a non-specialist audience while preserving key study findings and limitations.
 
